@@ -19,7 +19,7 @@ decorator==4.4.0
 Django==2.2.1
 django-extensions==2.1.6
 django-otp==0.6.0
-djangorestframework==3.9.4
+djangorestframework==3.11.2
 docx==0.2.4
 docx2txt==0.6
 EbookLib==0.15
