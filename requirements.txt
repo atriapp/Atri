@@ -60,7 +60,7 @@ preshed==2.0.1
 prompt-toolkit==2.0.9
 ptyprocess==0.6.0
 pycryptodome==3.8.2
-Pygments==2.4.0
+Pygments==2.7.4
 PyPDF2==1.26.0
 pyrsistent==0.15.2
 python-dateutil==2.8.0
