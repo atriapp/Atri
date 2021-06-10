@@ -16,7 +16,7 @@ dash-table==3.6.0
 dash-table-experiments==0.6.0
 dbapi==0.0.13
 decorator==4.4.0
-Django==2.2.1
+Django==2.2.24
 django-extensions==2.1.6
 django-otp==0.6.0
 djangorestframework==3.9.4
